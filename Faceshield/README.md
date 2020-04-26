@@ -7,11 +7,11 @@ This print is based on the [Prusa Face Shield](https://www.prusaprinters.org/pri
 
 ## Files
 Cura Files:
-- [Single Face Shield and Bottom](files/FaceShield_speed_150mm_fill_15_x1.3mf)
+- [Single Face Shield and Bottom](files/FaceShield_speed_150mm_fill_15_x1.3mf) 
 - [Double Face Shield and Bottom](files/FaceShield_speed_150mm_fill_15_x2.3mf)
 
 GCode Files:
-- [Single Face Shield and Bottom](files/FaceShield_speed_150mm_fill_15_x1.gcode)
+- [Single Face Shield and Bottom](files/FaceShield_speed_150mm_fill_15_x1.gcode) (Print time: 3:00)
 
 
 ## Note
