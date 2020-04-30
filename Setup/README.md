@@ -7,7 +7,8 @@ These prints are used during my setup of the 3d printers.
 https://www.thingiverse.com/thing:2518236
 
 This print is used when working with new filament. It will printat tempaeratures from 175c - 220c.  This tests for the best printing temperature for the filament.
-<img src="images/temperature_tower.png" alt="Temperature Tower" title="Temperature Tower" style="max-width:40%;">
+
+<img src="images/temperature_tower.png" alt="Temperature Tower" title="Temperature Tower" width="200px">
 
 
 ## Files
